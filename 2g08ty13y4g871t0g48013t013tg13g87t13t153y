@@ -1,4 +1,5 @@
 
+
 -- Instances: 193 | Scripts: 76 | Modules: 0
 local G2L = {};
 
@@ -657,7 +658,6 @@ G2L["53"] = Instance.new("LocalScript", G2L["50"]);
 
 -- StarterGui.Menu.Open
 G2L["54"] = Instance.new("Frame", G2L["1"]);
-G2L["54"]["Visible"] = false;
 G2L["54"]["BorderSizePixel"] = 0;
 G2L["54"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["54"]["Size"] = UDim2.new(0, 100, 0, 100);
@@ -1837,9 +1837,7 @@ local script = G2L["21"];
 	local button = script.Parent
 	
 	button.MouseButton1Click:Connect(function()
-		god mode script roblox its working ( i tryed on tower of hell )
-	
-	
+
 	
 	
 	
